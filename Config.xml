@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<widget
+    id          = "com.phonegap.wk6"
+    versionCode = "1"
+    version     = "1.0.0" >
+
+<!-- versionCode is optional and Android only -->
+
+  <name>Wk 6 Input</name>
+
+  <description>
+      Week 6 Worksheet Inputs
+  </description>
+  
+  <author href="https://github.com/DINR118/Week6-Inputs">
+      Radoslav Dinkov
+  </author>
+
+</widget>
